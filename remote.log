@@ -1,0 +1,1 @@
+59902ae0-d07f-436a-b6ee-01f18e71f4eb chunk=50MiB encryption=none externaltype=rclone name=gdrive-umn prefix=Data/Datalad/datalad-first-test rclone_layout=lower target=GDUMN type=external timestamp=1659542985.78247s
